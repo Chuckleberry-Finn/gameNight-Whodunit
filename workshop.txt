@@ -1,8 +1,8 @@
 version=1
 title=Game Night: Whodunit
 description=[h2]Add-On for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3058279917]GameNight[/url].[/h2]
-description=[h3][i]The other classic detective game.[/i][/h3]
-description=[i]Mr. Buddy, the host of game night has been murdered! Can you determine who, with what, and where?[/i]
+description=[h3]Mr. Buddy, the host of game night has been murdered! Can you determine who, with what, and where?[/h3]
+description=The [i]other[/i] classic detective game.
 description=
 description=[url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner2.png[/img][/url]
 description=
