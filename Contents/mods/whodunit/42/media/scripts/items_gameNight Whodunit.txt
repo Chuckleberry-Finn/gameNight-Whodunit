@@ -15,6 +15,11 @@ module Base
         Icon = Boxes/WhodunitBox, WorldStaticModel = Whodunit_Box_ground,
     }
 
+    item Whodunit_Box_sealed {
+        DisplayCategory = GameBox, Weight = 0.1, ItemType = base:normal,
+        Icon = Boxes/WhodunitBox, WorldStaticModel = Whodunit_Box_ground,
+    }
+
     item WhodunitPlum {
         DisplayCategory = GamePiece, Weight = 0.01, ItemType = base:normal,
         WorldStaticModel = WhodunitPiece, Icon = OutOfPlayTextures/profplum,
